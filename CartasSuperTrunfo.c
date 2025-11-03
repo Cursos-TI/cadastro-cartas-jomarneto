@@ -6,7 +6,7 @@
 
 int main() {
   // Área para definição das variáveis para armazenar as propriedades das cidades
-  
+
     char estado1,codigo_carta1[4],cidade1[50];
     char estado2,codigo_carta2[4],cidade2[50];
     int pupulacao1,pontos_turisticos1;
@@ -83,13 +83,3 @@ int main() {
     return 0; 
 } 
 
-
-#include<stdio.h>
-
-int main(){
-
-
-
-    
-
-}
